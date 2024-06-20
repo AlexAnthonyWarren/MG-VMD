@@ -1,5 +1,5 @@
 # Effective Video Mirror Detection with Inconsistent Motion Cues (CVPR2024)
-Alex Warren, Ke Xu, Jiaying Lin, Gary Tam, Rynson W.H. Lau
+[Alex Warren](https://alex-warren.co.uk), [Ke Xu](https://kkbless.github.io), [Jiaying Lin](https://jiaying.link), [Gary Tam](https://sites.google.com/site/csgarykl/home?authuser=0), [Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/)
 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Warren_Effective_Video_Mirror_Detection_with_Inconsistent_Motion_Cues_CVPR_2024_paper.pdf)]
 
