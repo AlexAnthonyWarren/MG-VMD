@@ -18,8 +18,4 @@ Image-based mirror detection has recently undergone rapid research due to its si
     pages     = {17244-17252}
 }
 ```
-
-Code:
-Weights:
-Dataset:
-
+[Code][Weights][Dataset]
