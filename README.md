@@ -4,6 +4,6 @@
 [Alex Warren](https://alex-warren.co.uk), [Ke Xu](https://kkbless.github.io), [Jiaying Lin](https://jiaying.link), [Gary Tam](https://sites.google.com/site/csgarykl/home?authuser=0), [Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/)
 <br> Swansea University, City University of Hong Kong
 
-[Paper (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD)
-[Code & Weights (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD)
-[MMD Dataset (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD)
+[Paper (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD) <br>
+[Code & Weights (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD) <br>
+[MMD Dataset (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD) <br>
