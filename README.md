@@ -1,3 +1,5 @@
+## Unfortunately, we have lost access to this GitHub account, we have created a new official public repository (https://www.github.com/AlexAnthonyWarren1/MG-VMD) for Effective Video Mirror Detection with Inconsistent Motion Cues (CVPR2024).
+
 # Effective Video Mirror Detection with Inconsistent Motion Cues (CVPR2024)
 [Alex Warren](https://alex-warren.co.uk), [Ke Xu](https://kkbless.github.io), [Jiaying Lin](https://jiaying.link), [Gary Tam](https://sites.google.com/site/csgarykl/home?authuser=0), [Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/)
 <br> Swansea University, City University of Hong Kong
@@ -18,5 +20,5 @@ Image-based mirror detection has recently undergone rapid research due to its si
     pages     = {17244-17252}
 }
 ```
-[Code & Weights]()
-[MMD Dataset](https://swanseauniversity-my.sharepoint.com/:u:/g/personal/851864_swansea_ac_uk/EbXj5gD0HLRLq9VKt_2YvikBMoiz4W6v5FtslHP1PhvHsg?e=VCcIJ6)
+[Code & Weights (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD)
+[MMD Dataset (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD)
