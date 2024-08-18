@@ -7,3 +7,4 @@
 [Paper (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD) <br>
 [Code & Weights (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD) <br>
 [MMD Dataset (link to new GitHub Repo)](https://www.github.com/AlexAnthonyWarren1/MG-VMD) <br>
+New GitHub repo link: https://www.github.com/AlexAnthonyWarren1/MG-VMD
